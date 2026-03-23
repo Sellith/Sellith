@@ -1,10 +1,17 @@
-## Hi there 👋
+<h1 align="center"> 🦊 Leane Sellith van Bree </h1>
+<div align="center">
+  <strong><em><code>Code, Review, Learn, Repeat</code></strong></em>
+  <br>
+  <p>Hi there ! My name is Leane Sellith van Bree, I'm an IT student in the 42 school. Welcome on my profile page !</p>
+  <h3>My links</h3>
+  <a href="https://www.linkedin.com/in/leanevanbree/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <br>
+  <img src="assets/sorceress.gif" alt="coding sorceress"/>
+</div>
 
-<!--
-**Sellith/Sellith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
