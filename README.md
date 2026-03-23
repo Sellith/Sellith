@@ -9,7 +9,7 @@
 </div>
 <h2><strong>Connect with me !</strong></h5>
 <a href="https://www.linkedin.com/in/leanevanbree/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" size="80%"/>
 </a>
 <h2><strong>Langages and tools !</strong></h5>
 <div>
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" alt="ts"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html"/>
   <img src="https://skillicons.dev/icons?i=markdown" alt="mk"/>
-  <img src="assets/makefileimg.svg" alt="makefile"/>
+  <img width="50" height="50" class="mkfile_img" src="assets/makefileimg.svg" alt="makefile"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="C"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="vs"/>
 </div>
