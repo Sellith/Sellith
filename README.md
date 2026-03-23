@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" alt="ts"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html"/>
   <img src="https://skillicons.dev/icons?i=markdown" alt="mk"/>
-  <img src="" alt="makefile"/>
+  <img src="assets/makefileimg.svg" alt="makefile"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="C"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="vs"/>
 </div>
