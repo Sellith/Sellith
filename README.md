@@ -7,7 +7,7 @@
       <ul>
         <li>🔭 I’m currently working on 42 project, trying to finish my common core. 💪🏼</li>
         <li>🌱 I’m currently learning... a lot of thing ! THE GROW NEVER ENDS ! 😂</li>
-        <li>⚡ Fun fact: I love to play guitar and to build them ! 🦊</li>
+        <li>⚡ Fun fact: I love playing guitar ~~ and building them ! 🦊</li>
       </ul>
     </div>
   <img src="assets/sorceress.gif" alt="coding sorceress"/>
