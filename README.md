@@ -1,10 +1,15 @@
-<h1 align="center"> 🦊 Leane Sellith van Bree </h1>
+<h1 align="center"> 🦊 Heya ! My name is Leane Sellith</h1>
 <div align="center">
-  <strong><em><code>Code, Review, Learn, Repeat</code></strong></em>
+  <strong><em><code>Code, Review, Learn, Repeat</code></em></strong>
   <br>
-  <h5>Hi! My name is Leane Sellith van Bree, I'm a computer science student at 42. Welcome to my profile page!</h5>
-
-  <br>
+  <h2>I'm a computer science student at 42. Welcome to my profile page!</h2>
+    <div align="left">
+      <ul>
+        <li>🔭 I’m currently working on 42 project, trying to finish my common core. 💪🏼</li>
+        <li>🌱 I’m currently learning... a lot of thing ! THE GROW NEVER ENDS ! 😂</li>
+        <li>⚡ Fun fact: I love to play guitar and to build them ! 🦊</li>
+      </ul>
+    </div>
   <img src="assets/sorceress.gif" alt="coding sorceress"/>
 </div>
 <h2><strong>Connect with me !</strong></h5>
@@ -25,8 +30,6 @@
 </div>
 
 <!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
