@@ -1,4 +1,4 @@
-<h1 align="center"> 🦊 Heya ! My name is Leane Sellith</h1>
+<h1 align="center"> 🦊 Heya ! My name is Leane - aka Sellith</h1>
 <div align="center">
   <strong><em><code>Code, Review, Learn, Repeat</code></em></strong>
   <br>
