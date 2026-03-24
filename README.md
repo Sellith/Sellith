@@ -2,7 +2,7 @@
 <div align="center">
   <strong><em><code>Code, Review, Learn, Repeat</code></em></strong>
   <br>
-  <h2>I'm a computer science student at 42. Welcome to my profile page!</h2>
+  <h2>I'm a IT student at 42. Welcome to my profile page!</h2>
     <div align="left">
       <ul>
         <li>🔭 I’m currently working on 42 projects, trying to finish my common core. 💪🏼</li>
