@@ -5,7 +5,7 @@
   <h2>I'm a computer science student at 42. Welcome to my profile page!</h2>
     <div align="left">
       <ul>
-        <li>🔭 I’m currently working on 42 project, trying to finish my common core. 💪🏼</li>
+        <li>🔭 I’m currently working on 42 projects, trying to finish my common core. 💪🏼</li>
         <li>🌱 I’m currently learning... a lot of thing ! THE GROW NEVER ENDS ! 😂</li>
         <li>⚡ Fun fact: I love playing guitar ~~ and building them ! 🦊</li>
       </ul>
